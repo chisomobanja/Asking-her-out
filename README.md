@@ -1,4 +1,4 @@
-# HAVE FUN
+# Ask-her-out
 
 <h1 align="center"> AskHerOut.js 🌹</h1>
 
